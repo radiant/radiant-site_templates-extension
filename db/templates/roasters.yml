@@ -100,6 +100,7 @@ records:
       breadcrumb: Home
       parent_id: 
       status_id: 100
+      layout_id: 1
       published_at: 2008-12-23 18:08:45 Z
     2: 
       slug: file-not-found
